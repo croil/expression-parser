@@ -3,7 +3,7 @@
 An arithmetic parser that evaluates expression with recursive-descent method. The parser supports various operations, left and right brackets and some math functions. It can be easily integrated into custom calculators.
 A lot of operations will be added in foreseeable future
 ### Installing
-* Download [parser.jar](https://github.com/croil/expression-parser/parser.jar)
+* Download [parser.jar](parser.jar)
 or
 * Clone the repository `git clone https://github.com/croil/expression-parser`
 
